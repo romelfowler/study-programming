@@ -1,0 +1,13 @@
+{
+  "name":"Rommel's Cool Prompt Extention",
+  "version":"0.0.1",
+  "devDependencies": 
+    {
+      "grunt":["*://www.facebook.com/*"],
+      "grunt-contrib-concat":"-0.3.0",
+      "grunt-contrib-jshint":"-0.6.3",
+      "grunt-contrib-copy":"-0.5.0"
+
+
+    }
+}

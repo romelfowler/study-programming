@@ -11,9 +11,12 @@ var currentTime = currentDate.getFullYear() + '-' + //set year
     currentDate.getMinutes() + ':' +                //set minutes
     currentDate.getSeconds();                       //set seconds
 
+
 // Chapter 1: Hello World, Your First Program!
 // textbook
 var userName = prompt('What\'s your name?');
 document.body.innerHTML = '<h1>Hello, ' + userName + '!</h1>' +
                           '<p>' + projectName + ' ' + versionNumber +
                           ' accessed on: ' + currentTime + '</p>';
+
+var images = document.querySelectorAll('div.userContentWrapper img');

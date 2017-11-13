@@ -10,3 +10,4 @@ var currentTime = currentDate.getFullYear() + '-' + //set year
     currentDate.getHours() + ':' +                //set hours (military)
     currentDate.getMinutes() + ':' +                //set minutes
     currentDate.getSeconds();                       //set seconds
+
